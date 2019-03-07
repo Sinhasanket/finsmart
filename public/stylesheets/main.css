@@ -1,0 +1,36 @@
+#rwd-form {
+ margin: 25px auto;
+ width: 90%;
+}
+
+@media (min-width: 600px) {
+  #rwd-form {
+    width: 50%;
+  }
+}
+
+@media (min-width: 900px) {
+  #rwd-form {
+    width: 40%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #rwd-form {
+    width: 30%;
+  }
+}
+
+/*jumbotron*/
+
+.jumbotron{
+  background-image: url(https://static-news.moneycontrol.com/static-mcnews/2017/09/SIP-Money-_Birla-Growmymoney-770x433.jpg);
+}
+
+.pull-right{
+  color: white;
+}
+
+#finh{
+  color: white;
+}
